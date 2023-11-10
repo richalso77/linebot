@@ -1,0 +1,17 @@
+事前準備:
+下載ngrok
+pip line-bot-sdk
+註冊line developer
+
+操作tips:
+創建Messaging API
+use webhook
+登記Webhook URL 執行ngrok獲得
+Allow bot to join group chats Disabled
+Auto-reply messages Disabled
+Greeting messages Disabled
+紀錄Channel secret, Channel access token
+
+展示效果:
+https://www.youtube.com/watch?v=JEDZWIGR74E
+
