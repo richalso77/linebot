@@ -11,7 +11,12 @@ Allow bot to join group chats Disabled
 Auto-reply messages Disabled
 Greeting messages Disabled
 紀錄Channel secret, Channel access token
+如果要實際執行請下載 linebot.py, 建立static檔案(包含三張圖片"good1", "good2, "good3"), 要在專案根目錄執行cmd 輸入
+set FLASK_APP=linebot
+flask run
+執行後他會有一個埠 ex:localhost:5000 的5000
+在執行ngrok後，把它複製過來 ex:ngrok.exe http 5000
 
-展示效果:
+執行成果:
 https://www.youtube.com/watch?v=JEDZWIGR74E
 
